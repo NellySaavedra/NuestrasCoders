@@ -1,0 +1,39 @@
+*{
+	font-family: Arial;
+}
+hr {
+	background-color: black;
+	height: 2px;
+	width: 70px;
+	margin-left: 0px;
+}
+.p1{
+	width: 1070px;
+	height: 350px;
+	margin: 0px;
+	border: 0px;
+}
+div {
+	border: 1px solid black;
+	height: 300px;
+	width: 300px;
+	margin: 25px;
+	display: inline-block;
+	
+}
+.texto {
+	height: 20px;
+	width: 100px;
+	margin: 0px;
+	border: 0px;
+	color: black;
+	position: absolute;
+	margin-top: 280px;
+	margin-left: 180px;
+}
+img{
+	height: 300px;
+	width: 300px;
+	opacity: 1.0;
+	position: absolute;
+}
